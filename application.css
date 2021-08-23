@@ -1,0 +1,18 @@
+body{
+    width: 95%;
+    max-width: 800px;
+    margin:auto;
+    background: url(fundo1.jfif)center;
+}
+main{
+    padding:5px 40px;
+    margin-top:20px;
+    border-radius:15px;
+    background:#ffffff52;
+}
+.band-name {
+text-align: center;
+}
+.logo {
+    text-align: center;  
+}
